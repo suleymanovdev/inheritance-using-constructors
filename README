@@ -9,7 +9,7 @@ question #1
     
 2.  Create a class Passport (passport), which will
     contain passport information about a citizen
-    Ukraine. Using the inheritance mechanism, implement the class
+    Azerbayjan. Using the inheritance mechanism, implement the class
     ForeignPassport (foreign passport) derived from Passport.
     Recall that the passport
     contains, in addition to passport data, also data
