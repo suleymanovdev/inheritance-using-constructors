@@ -1,5 +1,5 @@
-question #1
-===========
+inheritance using constructors
+==============================
 
 1.  Create a class Student which will contain
     student information. Using the inheritance mechanism,
