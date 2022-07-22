@@ -1,13 +1,13 @@
 inheritance using constructors
 ==============================
 
-1.  Create a class Student which will contain
+-  Create a class Student which will contain
     student information. Using the inheritance mechanism,
     implement the class Aspirant (graduate student
     - student preparing for a PhD
     work) derived from Student.
     
-2.  Create a class Passport (passport), which will
+-  Create a class Passport (passport), which will
     contain passport information about a citizen
     Azerbayjan. Using the inheritance mechanism, implement the class
     ForeignPassport (foreign passport) derived from Passport.
